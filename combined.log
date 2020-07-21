@@ -1,0 +1,7 @@
+{"message":"Express server listening on port 3000","level":"info"}
+{"code":0,"service":0,"httpStatus":400,"message":"General BadRequest","prefix":"rnm","stack":"Invalid login: 534-5.7.9 Application-specific password required. Learn more at\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor a68sm2176865pje.35 - gsmtp","timestamp":1595318277392,"level":"error"}
+{"message":"Express server listening on port 3000","level":"info"}
+{"code":0,"service":0,"httpStatus":400,"message":"General BadRequest","prefix":"rnm","stack":"HttpStatus is not defined","timestamp":1595318402071,"level":"error"}
+{"message":"Express server listening on port 3000","level":"info"}
+{"message":"Express server listening on port 3000","level":"info"}
+{"message":"Express server listening on port 3000","level":"info"}
